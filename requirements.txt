@@ -1,4 +1,5 @@
 statsmodels
+scikit-learn
 pandas<2.2
 numpy<2
 matplotlib
